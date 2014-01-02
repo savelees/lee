@@ -1,9 +1,9 @@
 package com.abin.lee.template.string;
 
 public class CommonUtils {
-	public static String getMessage(String message){
-		String result="hello "+message;
-		return result;
-	}
 
+	public static String get(String parameter){
+		
+		return parameter;
+	}
 }
